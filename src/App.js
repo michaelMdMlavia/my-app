@@ -8,7 +8,7 @@ function App() {
     {
     username : "Michael",
      caption : "Welcome guys",
-     imgUrl : "https://i.ytimg.com/vi/zeO1yrVeC0U/maxresdefault.jpg "
+     imgUrl : "https://i  .ytimg.com/vi/zeO1yrVeC0U/maxresdefault.jpg "
 
     },
     {
@@ -43,9 +43,9 @@ function App() {
        }
       
       {/* Posts */}
+      {/* <Post/>
       <Post/>
-      <Post/>
-      <Post/>
+      <Post/> */}
       {/* Posts */}
     </div>
   );
